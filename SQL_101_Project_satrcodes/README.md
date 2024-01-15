@@ -2,7 +2,8 @@
 
 <br>
 
-Using what you learned during this course, apply the following: <br>
+Using what you learned during [this course](https://satr.codes/courses/8194df0c-6b14-4863-94e1-585a66aa3aa3/view), apply the following: 
+
 Suppose there is a school called **Tamayyaz for High School**, and we want to create a central database to include all information about teachers, students, and courses, knowing that the following information must be stored for each student (student’s serial number, student’s name, date of birth, student gender, enrollment date, student email, academic level, track, student GPA) and teachers’ information as follows (teacher’s serial number, teacher’s name, date of birth, teacher’s gender, teacher’s email, office number) and subject information as follows (subject serial number, Subject Name).
 <br>
 

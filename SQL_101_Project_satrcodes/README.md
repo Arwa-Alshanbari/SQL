@@ -19,13 +19,15 @@ Suppose there is a school called **Tamayyaz for High School**, and we want to cr
 * View the contents of the Student table with the rows arranged in ascending order by student name. 
 * Displays the contents of the Students table, giving the “Student Name” field an alias to shorten or make the column name more meaningful.
 * Modification of data.
->> Modifying a student’s data and changing the student’s email.
->> Modifying a teacher’s data and changing his office number.
+> Modifying a student’s data and changing the student’s email.
+> 
+> Modifying a teacher’s data and changing his office number.
 * Modification of tables.
->> Modify the name of a table. 
-<br>
+> Modify the name of a table. 
+
+
 ***Comments:***
-<br>
+
 * The serial number is id. 
 * Gender (F or M). 
 * The academic level consists of six levels (1, 2, 3, 4, 5, 6).

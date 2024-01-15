@@ -7,9 +7,9 @@ SQL, which stands for Structured Query Language, is a powerful programming langu
 MySQL Workbench, on the other hand, is a visual tool that provides a user-friendly interface for working with MySQL databases. It facilitates database design, modeling, development, and administration tasks, making it an essential companion for developers, database administrators, and anyone involved in the world of data management.
 
 Tools:
-[MySQL Workbench](https://downloads.mysql.com/archives/workbench/ )
+* [MySQL Workbench](https://downloads.mysql.com/archives/workbench/ )
 
-[SQL Server](https://downloads.mysql.com/archives/community/)
+* [SQL Server](https://downloads.mysql.com/archives/community/)
 
 Device:
-MacOS M2
+* MacOS M2

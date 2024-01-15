@@ -1,10 +1,13 @@
 # Project SQL 101
+
 <br>
+
 Using what you learned during this course, apply the following: <br>
 Suppose there is a school called **Tamayyaz for High School**, and we want to create a central database to include all information about teachers, students, and courses, knowing that the following information must be stored for each student (student’s serial number, student’s name, date of birth, student gender, enrollment date, student email, academic level, track, student GPA) and teachers’ information as follows (teacher’s serial number, teacher’s name, date of birth, teacher’s gender, teacher’s email, office number) and subject information as follows (subject serial number, Subject Name).
 <br>
+
 ### Requirements
-<br>
+
 * Use comments to clarify commands.
 * Create the database.
 * Create tables. 
@@ -15,10 +18,10 @@ Suppose there is a school called **Tamayyaz for High School**, and we want to cr
 * Display the contents of all tables.
 * View the contents of the Student table with the rows arranged in ascending order by student name. 
 * Displays the contents of the Students table, giving the “Student Name” field an alias to shorten or make the column name more meaningful.
-* > Modification of data.
+* Modification of data.
 >> Modifying a student’s data and changing the student’s email.
 >> Modifying a teacher’s data and changing his office number.
-* > Modification of tables.
+* Modification of tables.
 >> Modify the name of a table. 
 <br>
 ***Comments:***
